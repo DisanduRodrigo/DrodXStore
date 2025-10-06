@@ -85,7 +85,7 @@ Follow these steps to run the project locally.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/DrodXStore.git
+   git clone https://github.com/DisanduRodrigo/DrodXStore.git
    cd DrodXStore
    ```
 
@@ -103,7 +103,7 @@ Follow these steps to run the project locally.
 
 3. **Configure database connection**
 
-   * Open the configuration file (e.g., `config.php`) and update the database credentials:
+   * Open the configuration file (e.g., `connection.php`) and update the database credentials:
 
    ```php
    <?php
