@@ -138,8 +138,8 @@ You can add screenshots of your application below (e.g., Login Page, Home Page, 
 | Update Product Page| ![Update Product Page](screenshots/updateproduct.png)      |
 | User Profile Page| ![User Profile Page](screenshots/userprofile.png)        |
 | Admin Dashboard | ![Admin Dashboard](screenshots/admindashboard.png) |
-| Admin Manage Users Page | ![Admin Manage Users Page](adminmanageusers/home.png)        |
-| Admin Manage Products Page | ![Admin Manage ProductsPage](adminmanageproducts/home.png)        |
+| Admin Manage Users Page | ![Admin Manage Users Page](screenshots/adminmanageusers.png)        |
+| Admin Manage Products Page | ![Admin Manage ProductsPage](screenshots/adminmanageproduct.png)        |
 
 > Replace the `screenshots/*.png` files with your actual images or remove this section if not needed.
 
