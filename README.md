@@ -60,23 +60,6 @@ Built using **PHP**, **HTML**, **CSS**, **JavaScript**, and **Bootstrap**, the p
 
 ---
 
-## 📂 Project Structure
-
-```
-DrodXStore/
-│
-├── assets/        # CSS, JS, images
-├── includes/      # Header, footer, and reusable PHP files
-├── admin/         # Admin panel and management pages
-├── user/          # User dashboard and related pages
-├── database/      # Database configuration and SQL files
-├── index.php      # Main homepage
-├── login.php      # User login page
-├── register.php   # User registration page
-└── README.md      # Project documentation
-```
-
----
 
 ## ⚙️ Setup & Installation
 
